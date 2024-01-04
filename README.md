@@ -15,8 +15,8 @@ Repositório onde armazeno resumos de Git e Github como uma área de estudos.
 
 ## Estados GIT
 - Untracked: arquivo inrastreável.
-- Untracked: arquivo imodificavél, estável e rastreável.
-- Untracked: arquivo modificado e não commitado.
+- Unmodified: arquivo imodificavél, estável e rastreável.
+- Modified: arquivo modificado e não commitado.
 
 ## Códigos GIT e suas funcionalidades
 
